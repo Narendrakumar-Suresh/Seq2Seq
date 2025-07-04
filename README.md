@@ -119,4 +119,4 @@ for i in range(300):
 ---
 
 ## License
-This code is provided for educational purposes.
+This code is provided for educational purposes and it is under MIT License.
